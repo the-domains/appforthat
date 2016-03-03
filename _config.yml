@@ -2,6 +2,7 @@ name: appforthat
 favicon: null
 layout_spectrum: 0.6335650822147727
 typography_spectrum: 0.09740598127245903
+title: A Place for Apps
 cta:
   domain: null
   bucket: null
