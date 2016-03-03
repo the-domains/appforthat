@@ -1,0 +1,28 @@
+name: appforthat
+favicon: null
+layout_spectrum: 0.6335650822147727
+typography_spectrum: 0.09740598127245903
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9093019410502166
+  lightness: 0.6981702570337802
+  saturation: 0.8389106078539044
+  rhythmicContrast: 0.37242143880575895
+purpose: []
