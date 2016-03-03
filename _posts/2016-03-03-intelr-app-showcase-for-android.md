@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://appshowcase.intel.com'
-  name: Intel
-  favicon: 'https://pams.s3.amazonaws.com/prd/s3fs-public/favicon.ico'
-  domain: appshowcase.intel.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://appshowcase.intel.com/en-us/android?gclid=CIDnoJ-wo8sCFVBhfgod4F4NGw&gclsrc=aw.ds'
+inLanguage: en
+starred: false
 keywords:
   - intel
   - browse
@@ -17,20 +16,25 @@ keywords:
   - modified
   - attribution
   - creative
-description: 'With the Intel® App Showcase for Android* , every day is App Day. Browse and discover new and exciting apps for your Int...'
-inLanguage: en
+description: 'With App for That , every day is An App Day!  Browse and discover new and exciting apps for your Int...'
+datePublished: '2016-03-03T02:21:24.557Z'
+dateModified: '2016-03-03T02:21:02.740Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://appshowcase.intel.com/en-us/android?gclid=CIDnoJ-wo8sCFVBhfgod4F4NGw&gclsrc=aw.ds'
-title: 'Intel® App Showcase for Android*'
-datePublished: '2016-03-03T01:38:28.371Z'
-dateModified: '2016-03-03T01:36:10.938Z'
+title: App for That
 sourcePath: _posts/2016-03-03-intelr-app-showcase-for-android.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Intel
+  domain: appshowcase.intel.com
+  url: 'https://appshowcase.intel.com'
+  favicon: 'https://pams.s3.amazonaws.com/prd/s3fs-public/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Intel® App Showcase for Android&amp;midast;</h1><p>With the Intel® App Showcase for Android&amp;midast; &amp;comma; every day is App Day&amp;period; Browse and discover new and exciting apps for your Int&amp;period;&amp;period;&amp;period;</p><img src="https://pams.s3.amazonaws.com/prd/s3fs-public/styles/product_page_icon_enlarged/public/Android.jpg?itok=48aOSWxi" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc52e9de-89eb-4fc1-9feb-92d86b08d7ac.jpg)
+
+<article style=""><h1>App for That</h1><p>With Appforthat , every day is App Day. Browse and discover new and exciting apps for your business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/224b31fcc0b8ac801b496c786588d71e01013a5a.jpg" /></article>
