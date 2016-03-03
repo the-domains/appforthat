@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[appforthat]]></title>
-        <description><![CDATA[appforthat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[A Place for Apps]]></title>
+        <description><![CDATA[A Place for Apps]]></description>
+        <link>https://thegrid.ai/appforthat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 01:39:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Mar 2016 02:21:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/appforthat/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Intel® App Showcase for Android*]]></title>
-            <description><![CDATA[<article><h1>Intel® App Showcase for Android*</h1><p>With the Intel® App Showcase for Android* , every day is App Day. Browse and discover new and exciting apps for your Int...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/224b31fcc0b8ac801b496c786588d71e01013a5a.jpg"></article>]]></description>
+            <title><![CDATA[App for That]]></title>
+            <description><![CDATA[<article><h1>App for That</h1><p>With App for That , every day is An App Day!  Browse and discover new and exciting apps for your Int...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f689d6f4a67adf638fc5c5762f9bab3270928b19.jpg"></article>]]></description>
             <link>https://appshowcase.intel.com/en-us/android?gclid=CIDnoJ-wo8sCFVBhfgod4F4NGw&amp;gclsrc=aw.ds</link>
             <guid isPermaLink="false">593dd584-6a4e-4a30-9fef-b793ccc801d4</guid>
-            <pubDate>Thu, 03 Mar 2016 01:38:28 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2016 02:21:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
